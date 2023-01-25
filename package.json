@@ -2,6 +2,11 @@
   "name": "server",
   "version": "1.0.0",
   "description": "Server for roboadvisor",
+   "scripts": {
+        "build": "yarn",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
+    },
   "main": "index.js",
   "author": "fas",
   "license": "MIT",
