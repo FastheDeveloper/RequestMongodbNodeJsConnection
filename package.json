@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for roboadvisor",
+  "main": "index.js",
+  "author": "fas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.4",
+    "nodemon": "^2.0.20"
+  }
+}
